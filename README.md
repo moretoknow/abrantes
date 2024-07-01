@@ -4,16 +4,16 @@ A method for community detection (i.e., clustering nodes of a network) based on 
 
 ---
 
-**Citing**
+**Research**
 
-If you you are curious about *Abrantes* or find it useful in your research, please refer to the following paper:
+If you are curious about *Abrantes* or find it useful to your research, please refer to the paper [Greedy recursive spectral bisection for modularity-bound hierarchical divisive community detection](https://doi.org/10.1007/s11222-024-10451-3):
 
 ```bibtex
 @article{cardoso_greedy_2024,
 	title = {Greedy recursive spectral bisection for modularity-bound hierarchical divisive community detection},
 	volume = {34},
 	issn = {1573-1375},
-	url = {https://doi.org/10.1007/s11222-024-10451-3},
+	url = {<https://doi.org/10.1007/s11222-024-10451-3>},
 	doi = {10.1007/s11222-024-10451-3},
 	language = {en},
 	number = {4},
